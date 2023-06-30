@@ -13,8 +13,6 @@
 
 ### 🏠 [Homepage](https://github.com/bogiemakesperfect/Falveci)
 
-### ✨ [Demo](https://github.com/bogiemakesperfect/Falveci)
-
 ## Author
 
 👤 **bogiemakesperfect**
